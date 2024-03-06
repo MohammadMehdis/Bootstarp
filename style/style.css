@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body main .hero .content-b {
+  width: 100%;
+  height: 100vh;
+}
+body main .hero .content-b .box {
+  background-color: #ef3c51;
+  height: 310px;
+}
+body main .hero .content-b .box .box_right .box-h {
+  color: white;
+}
+body main .hero .content-b .box .box_right .box-h .box_right__con {
+  text-align: center;
+  width: 70px;
+}
+body main .hero .content-b .box .box_right .box-h img {
+  width: 120px;
+  /*w-10 why?*/
+}
+body main .hero .content-b .box .box_left img {
+  width: 150px;
+}
+body main .hero .content-b .box .box_left div {
+  background-color: white;
+  height: 290px;
+  width: 165px;
+  margin-right: 1px;
+}
+body main .hero .content-b .box .box_left div span {
+  display: block;
+  width: 40px;
+  height: 25px;
+  text-align: center;
+  padding-left: 4px;
+  padding-right: 4px;
+  border-radius: 20px;
+  color: white;
+  background-color: #ff001e;
+}
+
+/*# sourceMappingURL=style.css.map */
